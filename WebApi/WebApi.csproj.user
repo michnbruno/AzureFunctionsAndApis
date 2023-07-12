@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup />
+  <PropertyGroup>
+    <NameOfLastUsedPublishProfile>D:\walkthroughs\CloudNative\Second-Hand-Store\AzureFunctionsAndApis\.github\workflows\ProductCatalog202307121058461.yml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
 </Project>
