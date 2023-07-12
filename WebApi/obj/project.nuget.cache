@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tJzHsaO6GrbQS0kw4iuz7gvxWm5qtz2f050ESmiloIrweefwnaSWbeSbbkrsoxOAZHEB6JdzpbmLCC0HoBj61A==",
+  "success": true,
+  "projectFilePath": "D:\\walkthroughs\\CloudNative\\Second-Hand-Store\\AzureFunctionsAndApis\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\michn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\michn\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\michn\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\michn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\michn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
